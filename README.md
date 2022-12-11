@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ryan-OHanlon
 - 👀 I’m interested in learning how to become a data analyst
-- 🌱 I’m currently learning R and SQL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking to build my portfolio
 - 📫 Reach out to me on LinkedIn
 
 <!---
