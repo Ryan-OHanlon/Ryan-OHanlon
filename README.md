@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ryan-OHanlon
-- 👀 I’m interested in learning how to become a web developer
+- 👀 I’m interested in learning how to become a web developer and data analyst
 - 🌱 I’m currently learning HTML, CSS, Javascript, Python, and MySQL
 - 💞️ I’m looking to build my portfolio
 - 📫 Reach out to me on LinkedIn
